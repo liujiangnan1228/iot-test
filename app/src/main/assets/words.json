@@ -1,0 +1,102 @@
+[
+  {
+    "en": "apple",
+    "phonetic": "/ˈæpl/",
+    "cn": "苹果"
+  },
+  {
+    "en": "banana",
+    "phonetic": "/bəˈnɑːnə/",
+    "cn": "香蕉"
+  },
+  {
+    "en": "book",
+    "phonetic": "/bʊk/",
+    "cn": "书"
+  },
+  {
+    "en": "cat",
+    "phonetic": "/kæt/",
+    "cn": "猫"
+  },
+  {
+    "en": "dog",
+    "phonetic": "/dɒɡ/",
+    "cn": "狗"
+  },
+  {
+    "en": "egg",
+    "phonetic": "/eɡ/",
+    "cn": "鸡蛋"
+  },
+  {
+    "en": "fish",
+    "phonetic": "/fɪʃ/",
+    "cn": "鱼"
+  },
+  {
+    "en": "goat",
+    "phonetic": "/ɡəʊt/",
+    "cn": "山羊"
+  },
+  {
+    "en": "hat",
+    "phonetic": "/hæt/",
+    "cn": "帽子"
+  },
+  {
+    "en": "ice",
+    "phonetic": "/aɪs/",
+    "cn": "冰"
+  },
+  {
+    "en": "juice",
+    "phonetic": "/dʒuːs/",
+    "cn": "果汁"
+  },
+  {
+    "en": "kite",
+    "phonetic": "/kaɪt/",
+    "cn": "风筝"
+  },
+  {
+    "en": "lion",
+    "phonetic": "/ˈlaɪən/",
+    "cn": "狮子"
+  },
+  {
+    "en": "milk",
+    "phonetic": "/mɪlk/",
+    "cn": "牛奶"
+  },
+  {
+    "en": "nose",
+    "phonetic": "/nəʊz/",
+    "cn": "鼻子"
+  },
+  {
+    "en": "orange",
+    "phonetic": "/ˈɒrɪndʒ/",
+    "cn": "橙子"
+  },
+  {
+    "en": "pen",
+    "phonetic": "/pen/",
+    "cn": "钢笔"
+  },
+  {
+    "en": "queen",
+    "phonetic": "/kwiːn/",
+    "cn": "女王"
+  },
+  {
+    "en": "rabbit",
+    "phonetic": "/ˈræbɪt/",
+    "cn": "兔子"
+  },
+  {
+    "en": "sun",
+    "phonetic": "/sʌn/",
+    "cn": "太阳"
+  }
+]
