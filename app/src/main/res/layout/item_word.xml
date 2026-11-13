@@ -2,9 +2,14 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:layout_marginStart="4dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginEnd="4dp"
+    android:layout_marginBottom="5dp"
+    android:background="@drawable/bg_card"
+    android:gravity="center_vertical"
     android:orientation="horizontal"
-    android:padding="16dp"
-    android:gravity="center_vertical">
+    android:padding="14dp">
 
     <LinearLayout
         android:layout_width="0dp"
@@ -16,25 +21,39 @@
             android:id="@+id/tvEn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:textColor="#111827"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
         <TextView
             android:id="@+id/tvPhonetic"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#666666"
-            android:textSize="14sp"/>
+            android:layout_marginTop="2dp"
+            android:textColor="#8A94A6"
+            android:textSize="13sp" />
+
         <TextView
             android:id="@+id/tvCn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="16sp"/>
+            android:layout_marginTop="4dp"
+            android:textColor="#1F2937"
+            android:textSize="15sp" />
     </LinearLayout>
 
-    <Button
+    <TextView
         android:id="@+id/btnSpeak"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="发音"/>
+        android:layout_height="36dp"
+        android:background="@drawable/bg_chip_primary"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:paddingStart="14dp"
+        android:paddingEnd="14dp"
+        android:text="发音"
+        android:textColor="#2F6BFF"
+        android:textSize="13sp" />
 
 </LinearLayout>

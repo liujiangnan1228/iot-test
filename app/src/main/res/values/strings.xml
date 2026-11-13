@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">iot-test</string>
+    <string name="app_name">单词本</string>
+    <string name="quiz_word_placeholder">word</string>
+    <string name="quiz_hint">选择正确的词义</string>
 </resources>
